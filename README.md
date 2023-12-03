@@ -4,9 +4,9 @@ Hi, i'm Marco!
 
 Programming languages I am familiar with:
 FRONT-END <br>
-html <br> - css <br> - js <br> - react js <br> - tailwind <br> <br>
-BACK END
-express js <br> - and the next? <br>
+-Html <br> - Css <br> - Js <br> - React js <br> - Tailwind <br> <br>
+BACK END <br>
+-Express js <br> - nd the next? <br>
 
 Interesting facts:
 - 🔭 I’m currently working on back-end.
