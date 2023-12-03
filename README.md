@@ -2,9 +2,9 @@ Hi, i'm Marco!
 🎈Italy
 13 y.o
 
-Programming languages I am familiar with:
+Programming languages I am familiar with: <br>
 FRONT-END <br>
--Html <br> - Css <br> - Js <br> - React js <br> - Tailwind <br> <br>
+-Html <br> - Css <br> - Js <br> - React js <br> - Tailwind <br> 
 BACK END <br>
 -Express js <br> - nd the next? <br>
 
