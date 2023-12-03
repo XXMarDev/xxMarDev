@@ -4,7 +4,7 @@ Hi, i'm Marco!
 
 Programming languages I am familiar with: <br>
 FRONT-END <br>
--Html <br> - Css <br> - Js <br> - React js <br> - Tailwind <br> 
+-Html <br> - Css <br> - Js <br> - React js <br> - Tailwind <br> <br>
 BACK END <br>
 -Express js <br> - nd the next? <br>
 
