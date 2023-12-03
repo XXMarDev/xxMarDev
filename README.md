@@ -6,7 +6,7 @@ Programming languages I am familiar with:
 FRONT-END
 html - css - js - react js - tailwind
 BACK END
-express js - and the next??
+express js - and the next?
 
 Interesting facts:
 - 🔭 I’m currently working on back-end.
