@@ -3,10 +3,10 @@ Hi, i'm Marco!
 13 y.o
 
 Programming languages I am familiar with:
-FRONT-END
-html - css - js - react js - tailwind
+FRONT-END <br>
+html <br> - css <br> - js <br> - react js <br> - tailwind <br> <br>
 BACK END
-express js - and the next?
+express js <br> - and the next? <br>
 
 Interesting facts:
 - 🔭 I’m currently working on back-end.
