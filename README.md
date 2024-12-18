@@ -3,7 +3,7 @@ Hi, i'm Marco!
 14 y.o
 
 Programming languages I am familiar with: <br>
--Python(Flask, Numpy) <br> -JavaScript(ReactJS, ExpressJS) <br> -CSS
+-Python(Flask, Numpy) <br> -JavaScript(ReactJS, ExpressJS) <br> -CSS <br> -HTML
 
 Interesting facts:
 - 🔭 I’m currently working on Neural Netwworks and ML.
