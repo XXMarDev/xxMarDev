@@ -1,16 +1,13 @@
 Hi, i'm Marco!
 🎈Italy
-13 y.o
+14 y.o
 
 Programming languages I am familiar with: <br>
-FRONT-END <br>
--Html <br> - Css <br> - JavaScript <br> - React js <br> - Tailwind <br> <br>
-BACK END <br>
--Express js <br> - Flask <br>
+-Python(Flask, Numpy) <br> -JavaScript(ReactJS, ExpressJS) <br> -CSS
 
 Interesting facts:
-- 🔭 I’m currently working on back-end.
-- 🌱 I’m currently learning Flask.
-- ✨ I'm currently working on many static projects.
+- 🔭 I’m currently working on Neural Netwworks and ML.
+- 🌱 I’m currently learning SQL.
+- ✨ I'm currently learning C++.
 
-I aspire to become a full stack developer. Can i do it?
+I aspire to become a Data Scientist. Can i do it?
